@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#box {
+  width: 30vw;
+  height: 30vh;
+  background-color: beige;
+  border: 3px double #221200;
+  text-align: center;
+}
+#box input {
+  width: 144px;
+}
+#box button {
+  width: 72px;
+}
+#box #submit {
+  background-color: #ddccff;
+  color: #8800dd;
+}
+#box #enlarge {
+  background-color: #ccffcc;
+  color: #006600;
+}
+#box #shrink {
+  background-color: #dddddd;
+  color: #888888;
+}/*# sourceMappingURL=style.css.map */

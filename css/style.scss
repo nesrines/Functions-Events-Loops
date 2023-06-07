@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#box {
+    width: 30vw;
+    height: 30vh;
+    background-color: beige;
+    border: 3px double #221200;
+    text-align: center;
+    input {
+        width: 144px;
+    }
+    button {
+        width: 72px;
+    }
+    #submit{
+        background-color: #ddccff;
+        color: #8800dd;
+    }
+    #enlarge{
+        background-color: #ccffcc;
+        color: #006600;
+    }
+    #shrink {
+        background-color: #dddddd;
+        color: #888888;
+    }
+}
